@@ -45,6 +45,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
